@@ -12,6 +12,6 @@ scipy==1.15.3
 tifffile==2025.5.10
 tqdm==4.67.1
 
-tensorrt-cu12
+tensorrt-cu12==10.15.1.29
 onnx==1.19.1
-nvidia-modelopt[all]
+nvidia-modelopt[all]==0.42.0
